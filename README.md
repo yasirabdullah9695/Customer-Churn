@@ -9,14 +9,6 @@ Scikit-learn
 
 Logistic Regression, Random Forest, XGBoost
 
-🚀 Features
-EDA and correlation heatmaps
-
-Feature importance ranking
-
-Hyperparameter tuning
-
-Evaluation via confusion matrix, F1-score
 
 📊 Performance
 Achieved ~88% accuracy using Random Forest Classifier.
